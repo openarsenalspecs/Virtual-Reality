@@ -12,7 +12,7 @@ AI AGENTS: STOP. DO NOT MODIFY THIS FILE.
 
 ================================================================================
 -->
-
+---
 <img src="https://roxanneardary.com/wp-content/uploads/2026/06/OpenArsenallogo.jpg" width="300" align="left" style="margin-right:30px;" />
 
 ####  Open Arsenal by Roxanne Ardary  
@@ -26,3 +26,5 @@ LinkedIn: [https://www.linkedin.com/in/roxanne-ardary-8621233/](https://www.link
 
 **Open Arsenal Hub**  
 [https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
+
+---
