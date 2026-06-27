@@ -1,0 +1,12 @@
+# Notice - Virtual Reality
+
+**Attribution Requirement:** Under Section 7 of the AGPL 3.0+ license, all redistributions, forks, and derivative works, including network-deployed versions of this project, must provide attribution to **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+
+### Contributors
+This file tracks contributors and their specific contributions to the project.
+
+- **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – June 27, 2026  
+Created the Virtual Reality repository.  Provided the specifications defining immersive system architecture, interaction models, and modular VR/AR infrastructure components.
+
+- **[Add other contributors here]** – [Date]  
+[Describe contribution in one sentence]
