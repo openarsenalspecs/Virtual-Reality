@@ -1,0 +1,70 @@
+# Open Arsenal Virtual Reality Specifications
+
+These specifications form a unified ecosystem of open-source, modular systems focused on deterministic computation, immersive simulation, AI-native infrastructure, and human-centered creative tooling. Across domains such as spatial geometry engines, VR/AR content generation, scientific sandboxes, orbital compute systems, and relationship intelligence platforms, the shared foundation emphasizes traceability, reproducibility, and structured creativity. Each project is designed as a composable layer in a broader stack where actions, inputs, and outputs can be logged, verified, and extended into larger systems of interoperable infrastructure.
+
+At their core, these specs prioritize long-term system integrity over isolated application design, enabling persistent worlds, auditable AI behavior, and collaborative innovation frameworks. They are built to support everything from experimental gameplay environments to real-world engineering pipelines, with governance and dependency graphs embedded into their architecture. A Specification Branding License is available for those interested in deploying these systems in attribution-free or white-labeled environments, allowing organizations to integrate the framework while maintaining flexible branding and distribution options.  
+
+## Virtual Reality Specs:
+
+- **Applied Unknowns**  
+[https://roxanneardary.com/applied-unknowns/](https://roxanneardary.com/applied-unknowns/)  
+Applied Unknowns is an open-source action-adventure scientific sandbox where player actions become permanent, validated infrastructure in a persistent, deterministic simulation world. Every meaningful contribution is logged, validated, and integrated into the evolving environment, turning gameplay into collaborative, traceable world-building with an infrastructure dependency graph for systemic understanding.
+
+- **Axiomata**  
+[https://roxanneardary.com/axiomata/](https://roxanneardary.com/axiomata/)  
+Axiomata is a constraint-driven neuro-symbolic geometry engine that transforms formal geometric rules into a generative system for structured creativity. It enables precise, rule-based creative exploration within virtual environments.
+
+- **Audiovista**  
+[https://roxanneardary.com/audiovista/](https://roxanneardary.com/audiovista/)  
+Audiovista is a cinematic AI engine that synchronizes audio and video dynamically for VR/AR and interactive content creation (AGPLv3). It features physics-aware audio generation, real-time adaptive dialogue and music, predictive scene handling, and modular tools for cohesive immersive media production.
+
+- **ChronicleCRM**  
+[https://roxanneardary.com/chroniclecrm/](https://roxanneardary.com/chroniclecrm/)  
+ChronicleCRM is an AI-native, modular relationship intelligence platform that captures every lead, interaction, and decision as a fully traceable, human-accountable record. It builds immutable timelines from natural inputs while keeping AI advisory and maintaining strong human oversight and auditability.
+
+- **Commons Architect**  
+[https://roxanneardary.com/commons-architect/](https://roxanneardary.com/commons-architect/)  
+Commons Architect is an AI system that designs cooperative business models for independent professionals, enabling shared resources, reduced overhead, and self-directed enterprise without middlemen. It generates modular governance, financial, and operational frameworks adaptable to various industries while preserving individual autonomy.
+
+- **Foundation for Deterministic Computing**  
+[https://roxanneardary.com/foundation-for-deterministic-computing/](https://roxanneardary.com/foundation-for-deterministic-computing/)  
+The Foundation for Deterministic Computing provides open standards for building reproducible, auditable, and human-governed computing systems. It defines modular specifications across execution, intelligence, governance, and workflow layers to ensure transparency, traceability, and trust in digital infrastructure.
+
+- **FrontierForge**  
+[https://roxanneardary.com/frontierforge/](https://roxanneardary.com/frontierforge/)  
+FrontierForge is an AGPL 3.0+ open-source AI-powered research, invention, and engineering platform combining scientific discovery, patent intelligence, semiconductor innovation, simulation, and autonomous workflows. It supports the full innovation lifecycle through knowledge graphs, hypothesis generation, design exploration, and collaborative tools.
+
+- **HandsOn Studio**  
+[https://roxanneardary.com/handson-studio/](https://roxanneardary.com/handson-studio/)  
+HandsOn Studio is a gesture-driven creative system that transforms hand motion into drawing, learning, and spatial design through modular tools, real-time rendering, and immersive interactive environments. It supports attribute-based rendering, educational modules, and recording capabilities for artistic and skill-building experiences in VR.
+
+- **HarmoniX Drive**  
+[https://roxanneardary.com/harmonixdrive/](https://roxanneardary.com/harmonixdrive/)  
+HarmoniX Drive is an open-source VR music racing platform where musical precision directly drives real-time speed and performance. It integrates instrument learning with competitive gameplay, turning practice into an engaging, motion-coupled experience in virtual space.
+
+- **HelioLink**  
+[https://roxanneardary.com/heliolink/](https://roxanneardary.com/heliolink/)  
+HelioLink is a modular orbital AI infrastructure system that converts continuous solar energy into autonomous, scalable compute beyond Earth’s physical limits. It integrates energy harvesting, radiation-hardened compute, radiative cooling, networking, and self-managing AI layers for space-native data infrastructure.
+
+---
+
+## License & Notice Requirements
+
+Open Arsenal Virtual Reality Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal Virtual Reality specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
