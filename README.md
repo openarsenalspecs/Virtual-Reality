@@ -65,6 +65,10 @@ HelioLink is a modular orbital AI infrastructure system that converts continuous
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
 The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.
 
+- **Layered Provenance Framework (LPF)**  
+[https://roxanneardary.com/layered-provenance-framework/](https://roxanneardary.com/layered-provenance-framework/)  
+Layered Provenance Framework (LPF) is a composable system for attribution-first design that structures digital provenance into separate layers for rendering, verification, and compliance. It enables consistent, non-coercive attribution display across web systems while supporting optional licensing and governance through a modular architecture.
+
 ---
 
 ## License & Notice Requirements
