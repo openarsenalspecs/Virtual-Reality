@@ -61,6 +61,10 @@ HarmoniX Drive is an open-source VR music racing platform where musical precisio
 [https://roxanneardary.com/heliolink/](https://roxanneardary.com/heliolink/)  
 HelioLink is a modular orbital AI infrastructure system that converts continuous solar energy into autonomous, scalable compute beyond Earth’s physical limits. It integrates energy harvesting, radiation-hardened compute, radiative cooling, networking, and self-managing AI layers for space-native data infrastructure.
 
+- **The Interpretation Layer**  
+[https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
+The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.
+
 ---
 
 ## License & Notice Requirements
