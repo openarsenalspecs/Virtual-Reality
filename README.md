@@ -45,7 +45,7 @@ Commons Architect is an AI system that designs cooperative business models for i
 [https://roxanneardary.com/foundation-for-deterministic-computing/](https://roxanneardary.com/foundation-for-deterministic-computing/)  
 The Foundation for Deterministic Computing provides open standards for building reproducible, auditable, and human-governed computing systems. It defines modular specifications across execution, intelligence, governance, and workflow layers to ensure transparency, traceability, and trust in digital infrastructure.
 
-- [**FrontierForge**](https://github.com/openarsenalspecs/Virtual-Reality/blob/318df2017936931ac3e7d1e0b635ea2ee513b9cf/FrontierForge.md)    
+- [**FrontierForge Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/318df2017936931ac3e7d1e0b635ea2ee513b9cf/FrontierForge.md)    
 [https://roxanneardary.com/frontierforge/](https://roxanneardary.com/frontierforge/)  
 FrontierForge is an AGPL 3.0+ open-source AI-powered research, invention, and engineering platform combining scientific discovery, patent intelligence, semiconductor innovation, simulation, and autonomous workflows. It supports the full innovation lifecycle through knowledge graphs, hypothesis generation, design exploration, and collaborative tools.
 
@@ -57,7 +57,7 @@ HandsOn Studio is a gesture-driven creative system that transforms hand motion i
 [https://roxanneardary.com/harmonixdrive/](https://roxanneardary.com/harmonixdrive/)  
 HarmoniX Drive is an open-source VR music racing platform where musical precision directly drives real-time speed and performance. It integrates instrument learning with competitive gameplay, turning practice into an engaging, motion-coupled experience in virtual space.
 
-- [**HelioLink**](https://github.com/openarsenalspecs/Virtual-Reality/blob/88b6df213fc58787cb9430a916ac4a0e65872081/HelioLink.md)    
+- [**HelioLink Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/88b6df213fc58787cb9430a916ac4a0e65872081/HelioLink.md)    
 [https://roxanneardary.com/heliolink/](https://roxanneardary.com/heliolink/)  
 HelioLink is a modular orbital AI infrastructure system that converts continuous solar energy into autonomous, scalable compute beyond Earth’s physical limits. It integrates energy harvesting, radiation-hardened compute, radiative cooling, networking, and self-managing AI layers for space-native data infrastructure.
 
