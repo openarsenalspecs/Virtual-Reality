@@ -71,6 +71,12 @@ Layered Provenance Framework (LPF) is a composable system for attribution-first 
 
 ---
 
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/virtual-reality/](https://roxanneardary.com/virtual-reality/)
+
+---
+
 ## License & Notice Requirements
 
 Open Arsenal Virtual Reality Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
