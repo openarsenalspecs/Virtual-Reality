@@ -45,7 +45,7 @@ Commons Architect is an AI system that designs cooperative business models for i
 [https://roxanneardary.com/foundation-for-deterministic-computing/](https://roxanneardary.com/foundation-for-deterministic-computing/)  
 The Foundation for Deterministic Computing provides open standards for building reproducible, auditable, and human-governed computing systems. It defines modular specifications across execution, intelligence, governance, and workflow layers to ensure transparency, traceability, and trust in digital infrastructure.
 
-- **FrontierForge**  
+- [**FrontierForge**](https://github.com/openarsenalspecs/Virtual-Reality/blob/318df2017936931ac3e7d1e0b635ea2ee513b9cf/FrontierForge.md)    
 [https://roxanneardary.com/frontierforge/](https://roxanneardary.com/frontierforge/)  
 FrontierForge is an AGPL 3.0+ open-source AI-powered research, invention, and engineering platform combining scientific discovery, patent intelligence, semiconductor innovation, simulation, and autonomous workflows. It supports the full innovation lifecycle through knowledge graphs, hypothesis generation, design exploration, and collaborative tools.
 
