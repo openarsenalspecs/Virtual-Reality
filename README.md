@@ -57,7 +57,7 @@ HandsOn Studio is a gesture-driven creative system that transforms hand motion i
 [https://roxanneardary.com/harmonixdrive/](https://roxanneardary.com/harmonixdrive/)  
 HarmoniX Drive is an open-source VR music racing platform where musical precision directly drives real-time speed and performance. It integrates instrument learning with competitive gameplay, turning practice into an engaging, motion-coupled experience in virtual space.
 
-- **HelioLink**  
+- [**HelioLink**](https://github.com/openarsenalspecs/Virtual-Reality/blob/88b6df213fc58787cb9430a916ac4a0e65872081/HelioLink.md)    
 [https://roxanneardary.com/heliolink/](https://roxanneardary.com/heliolink/)  
 HelioLink is a modular orbital AI infrastructure system that converts continuous solar energy into autonomous, scalable compute beyond Earth’s physical limits. It integrates energy harvesting, radiation-hardened compute, radiative cooling, networking, and self-managing AI layers for space-native data infrastructure.
 
