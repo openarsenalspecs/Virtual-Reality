@@ -29,7 +29,7 @@ Applied Unknowns is an open-source action-adventure scientific sandbox where pla
 [https://roxanneardary.com/axiomata/](https://roxanneardary.com/axiomata/)  
 Axiomata is a constraint-driven neuro-symbolic geometry engine that transforms formal geometric rules into a generative system for structured creativity. It enables precise, rule-based creative exploration within virtual environments.
 
-- **Audiovista**  
+- [**Audiovista Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/bb089757b4ed3381d2afe832f517bd802fd0725d/Audiovista.md)    
 [https://roxanneardary.com/audiovista/](https://roxanneardary.com/audiovista/)  
 Audiovista is a cinematic AI engine that synchronizes audio and video dynamically for VR/AR and interactive content creation (AGPLv3). It features physics-aware audio generation, real-time adaptive dialogue and music, predictive scene handling, and modular tools for cohesive immersive media production.
 
