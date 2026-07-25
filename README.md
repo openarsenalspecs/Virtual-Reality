@@ -57,7 +57,7 @@ FrontierForge is an AGPL 3.0+ open-source AI-powered research, invention, and en
 [https://roxanneardary.com/handson-studio/](https://roxanneardary.com/handson-studio/)  
 HandsOn Studio is a gesture-driven creative system that transforms hand motion into drawing, learning, and spatial design through modular tools, real-time rendering, and immersive interactive environments. It supports attribute-based rendering, educational modules, and recording capabilities for artistic and skill-building experiences in VR.
 
-- **HarmoniX Drive**  
+- [**HarmoniX Drive Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/d456443d294e1b0b38189d3a26848754f91e2df5/HarmoniX%20Drive.md)    
 [https://roxanneardary.com/harmonixdrive/](https://roxanneardary.com/harmonixdrive/)  
 HarmoniX Drive is an open-source VR music racing platform where musical precision directly drives real-time speed and performance. It integrates instrument learning with competitive gameplay, turning practice into an engaging, motion-coupled experience in virtual space.
 
