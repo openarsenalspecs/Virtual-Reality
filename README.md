@@ -67,15 +67,15 @@ HelioLink is a modular orbital AI infrastructure system that converts continuous
 
 - [**Horizon Framework Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/07349aaed20f585647509a1fc5c91c8223388ed8/Horizon%20Framework.md)    
 [https://roxanneardary.com/horizon-framework/](https://roxanneardary.com/horizon-framework/)  
-Horizon Framework is an open, modular AI architecture specification that provides a scalable foundation for building intelligent systems with advanced memory, retrieval, reasoning, verification, and multi-agent capabilities. Designed for any industry and deployment environment, it enables organizations to create adaptable, transparent, and trustworthy AI infrastructure without vendor lock-in.  
-
-- **The Interpretation Layer**  
-[https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
-The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.
+Horizon Framework is an open, modular AI architecture specification that provides a scalable foundation for building intelligent systems with advanced memory, retrieval, reasoning, verification, and multi-agent capabilities. Designed for any industry and deployment environment, it enables organizations to create adaptable, transparent, and trustworthy AI infrastructure without vendor lock-in.
 
 - **Layered Provenance Framework (LPF)**  
 [https://roxanneardary.com/layered-provenance-framework/](https://roxanneardary.com/layered-provenance-framework/)  
 Layered Provenance Framework (LPF) is a composable system for attribution-first design that structures digital provenance into separate layers for rendering, verification, and compliance. It enables consistent, non-coercive attribution display across web systems while supporting optional licensing and governance through a modular architecture.
+
+- **The Interpretation Layer**  
+[https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
+The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.  
 
 ---
 
