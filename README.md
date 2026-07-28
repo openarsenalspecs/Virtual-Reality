@@ -65,8 +65,8 @@ HarmoniX Drive is an open-source VR music racing platform where musical precisio
 [https://roxanneardary.com/heliolink/](https://roxanneardary.com/heliolink/)  
 HelioLink is a modular orbital AI infrastructure system that converts continuous solar energy into autonomous, scalable compute beyond Earth’s physical limits. It integrates energy harvesting, radiation-hardened compute, radiative cooling, networking, and self-managing AI layers for space-native data infrastructure.
 
-- **Horizon Framework**
-[https://roxanneardary.com/horizon-framework/](https://roxanneardary.com/horizon-framework/)
+- **Horizon Framework**  
+[https://roxanneardary.com/horizon-framework/](https://roxanneardary.com/horizon-framework/)  
 Horizon Framework is an open, modular AI architecture specification that provides a scalable foundation for building intelligent systems with advanced memory, retrieval, reasoning, verification, and multi-agent capabilities. Designed for any industry and deployment environment, it enables organizations to create adaptable, transparent, and trustworthy AI infrastructure without vendor lock-in.  
 
 - **The Interpretation Layer**  
