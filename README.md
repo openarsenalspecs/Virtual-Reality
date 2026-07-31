@@ -73,6 +73,10 @@ Horizon Framework is an open, modular AI architecture specification that provide
 [https://roxanneardary.com/layered-provenance-framework/](https://roxanneardary.com/layered-provenance-framework/)  
 Layered Provenance Framework (LPF) is a composable system for attribution-first design that structures digital provenance into separate layers for rendering, verification, and compliance. It enables consistent, non-coercive attribution display across web systems while supporting optional licensing and governance through a modular architecture.
 
+- [**MindVault Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/46166939f06d54595c2390f88946e71ef12406b7/MindVault.md)  
+[https://roxanneardary.com/mindvault/](https://roxanneardary.com/mindvault/)  
+MindVault is an open modular knowledge infrastructure specification designed to provide the knowledge layer for autonomous AI systems through persistent memory, vector intelligence, semantic understanding, and reasoning capabilities. It enables AI agents and RAG systems to store, manage, validate, and retrieve knowledge through a scalable, vendor-neutral architecture.
+
 - **The Interpretation Layer**  
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
 The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.  
