@@ -77,6 +77,10 @@ Layered Provenance Framework (LPF) is a composable system for attribution-first 
 [https://roxanneardary.com/mindvault/](https://roxanneardary.com/mindvault/)  
 MindVault is an open modular knowledge infrastructure specification designed to provide the knowledge layer for autonomous AI systems through persistent memory, vector intelligence, semantic understanding, and reasoning capabilities. It enables AI agents and RAG systems to store, manage, validate, and retrieve knowledge through a scalable, vendor-neutral architecture.
 
+- [**Symbol Atlast Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/05bb8a6faf29fae05115a724a72937e5cdd015ff/SymbolAtlas.md)  
+[https://roxanneardary.com/symbolatlas/](https://roxanneardary.com/symbolatlas/)
+SymbolAtlas is an open architecture for the human imagination, providing a personalized AI framework for active imagination, symbolic discovery, and reflection based on each individual's unique dream language. It connects inner exploration with knowledge, places, and experiences through intelligent retrieval, mapping, and discovery tools that help users uncover meaningful insights and personal solutions.  
+
 - **The Interpretation Layer**  
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
 The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.  
