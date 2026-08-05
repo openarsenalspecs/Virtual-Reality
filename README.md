@@ -29,7 +29,7 @@ AgentBlocks is an open-source modular AI experience ecosystem for creating, shar
 [https://roxanneardary.com/applied-unknowns/](https://roxanneardary.com/applied-unknowns/)  
 Applied Unknowns is an open-source action-adventure scientific sandbox where player actions become permanent, validated infrastructure in a persistent, deterministic simulation world. Every meaningful contribution is logged, validated, and integrated into the evolving environment, turning gameplay into collaborative, traceable world-building with an infrastructure dependency graph for systemic understanding.
 
-- **Axiomata**  
+- [**Axiomata Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/24fb2802dd17b98b16ac3f9c33d3beab1c08c23b/Axiomata.md)    
 [https://roxanneardary.com/axiomata/](https://roxanneardary.com/axiomata/)  
 Axiomata is a constraint-driven neuro-symbolic geometry engine that transforms formal geometric rules into a generative system for structured creativity. It enables precise, rule-based creative exploration within virtual environments.
 
