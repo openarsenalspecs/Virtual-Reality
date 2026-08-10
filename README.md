@@ -45,6 +45,10 @@ ChronicleCRM is an AI-native, modular relationship intelligence platform that ca
 [https://roxanneardary.com/commons-architect/](https://roxanneardary.com/commons-architect/)  
 Commons Architect is an AI system that designs cooperative business models for independent professionals, enabling shared resources, reduced overhead, and self-directed enterprise without middlemen. It generates modular governance, financial, and operational frameworks adaptable to various industries while preserving individual autonomy.
 
+- [**Custos Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/fd2f3c2b8321255f092b71bc39bd82b7de93e280/Custos.md)  
+[https://roxanneardary.com/custos/](https://roxanneardary.com/custos/)  
+An open-source, modular, AI-powered physical security intelligence platform designed to provide secure, privacy-first infrastructure without vendor lock-in.  
+
 - **Foundation for Deterministic Computing**  
 [https://roxanneardary.com/foundation-for-deterministic-computing/](https://roxanneardary.com/foundation-for-deterministic-computing/)  
 The Foundation for Deterministic Computing provides open standards for building reproducible, auditable, and human-governed computing systems. It defines modular specifications across execution, intelligence, governance, and workflow layers to ensure transparency, traceability, and trust in digital infrastructure.
