@@ -25,7 +25,7 @@ At their core, these specs prioritize long-term system integrity over isolated a
 [https://roxanneardary.com/agentblocks/](https://roxanneardary.com/agentblocks/)  
 AgentBlocks is an open-source modular AI experience ecosystem for creating, sharing, licensing, and deploying AI interfaces, workflows, personalities, themes, and intelligent applications. It provides AI-powered creation tools, open standards, and a decentralized marketplace that enables creators to build and customize the future of intelligent experiences.  
 
-- **Applied Unknowns**  
+- [**Applied Unknowns Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/bb540c466bfabe1809ad499656da534c239e01da/Applied%20Unknowns.md)    
 [https://roxanneardary.com/applied-unknowns/](https://roxanneardary.com/applied-unknowns/)  
 Applied Unknowns is an open-source action-adventure scientific sandbox where player actions become permanent, validated infrastructure in a persistent, deterministic simulation world. Every meaningful contribution is logged, validated, and integrated into the evolving environment, turning gameplay into collaborative, traceable world-building with an infrastructure dependency graph for systemic understanding.
 
