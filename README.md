@@ -41,6 +41,10 @@ Audiovista is a cinematic AI engine that synchronizes audio and video dynamicall
 [https://roxanneardary.com/chroniclecrm/](https://roxanneardary.com/chroniclecrm/)  
 ChronicleCRM is an AI-native, modular relationship intelligence platform that captures every lead, interaction, and decision as a fully traceable, human-accountable record. It builds immutable timelines from natural inputs while keeping AI advisory and maintaining strong human oversight and auditability.  
 
+- **BioTooth**  
+[https://roxanneardary.com/biotooth/](https://roxanneardary.com/biotooth/)  
+BioTooth is an AI-assisted dental research and discovery specification designed to connect scientific literature, patents, materials science, pharmacology, and biological research. It helps researchers identify overlooked discoveries, evaluate existing and proprietary technologies, explore alternative approaches, and investigate new possibilities for preserving, repairing, reinforcing, and regenerating natural teeth.
+
 - **Commons Architect**  
 [https://roxanneardary.com/commons-architect/](https://roxanneardary.com/commons-architect/)  
 Commons Architect is an AI system that designs cooperative business models for independent professionals, enabling shared resources, reduced overhead, and self-directed enterprise without middlemen. It generates modular governance, financial, and operational frameworks adaptable to various industries while preserving individual autonomy.
