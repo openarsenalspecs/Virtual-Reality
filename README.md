@@ -37,13 +37,13 @@ Axiomata is a constraint-driven neuro-symbolic geometry engine that transforms f
 [https://roxanneardary.com/audiovista/](https://roxanneardary.com/audiovista/)  
 Audiovista is a cinematic AI engine that synchronizes audio and video dynamically for VR/AR and interactive content creation (AGPLv3). It features physics-aware audio generation, real-time adaptive dialogue and music, predictive scene handling, and modular tools for cohesive immersive media production.
 
+- [**BioTooth Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/c110232e6410491ab26a9f9053a10d902481cb05/BioTooth.md)    
+[https://roxanneardary.com/biotooth/](https://roxanneardary.com/biotooth/)  
+BioTooth is an AI-assisted dental research and discovery specification designed to connect scientific literature, patents, materials science, pharmacology, and biological research. It helps researchers identify overlooked discoveries, evaluate existing and proprietary technologies, explore alternative approaches, and investigate new possibilities for preserving, repairing, reinforcing, and regenerating natural teeth.
+
 - [**ChronicleCRM Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/1083763921925c9fe993d8771dd3f0aab46f5128/ChronicleCRM.md)    
 [https://roxanneardary.com/chroniclecrm/](https://roxanneardary.com/chroniclecrm/)  
 ChronicleCRM is an AI-native, modular relationship intelligence platform that captures every lead, interaction, and decision as a fully traceable, human-accountable record. It builds immutable timelines from natural inputs while keeping AI advisory and maintaining strong human oversight and auditability.  
-
-- [**BioTooth Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/c110232e6410491ab26a9f9053a10d902481cb05/BioTooth.md)    
-[https://roxanneardary.com/biotooth/](https://roxanneardary.com/biotooth/)  
-BioTooth is an AI-assisted dental research and discovery specification designed to connect scientific literature, patents, materials science, pharmacology, and biological research. It helps researchers identify overlooked discoveries, evaluate existing and proprietary technologies, explore alternative approaches, and investigate new possibilities for preserving, repairing, reinforcing, and regenerating natural teeth.  
 
 - **Commons Architect**  
 [https://roxanneardary.com/commons-architect/](https://roxanneardary.com/commons-architect/)  
